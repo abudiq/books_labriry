@@ -1,16 +1,9 @@
 # books_labry
 
-A new Flutter application.
+a app show books frome database local make with DB Browser (SQLite) and use some libray to download file.pdf and show it 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+i order the code in some class floder and class.......
+the folder ui have the cod use to show widget.....ex home page ,download page ,......
+the folder database have the class fetch the data frome database and the model class
+if you have ask i will anser you ..........thanks
